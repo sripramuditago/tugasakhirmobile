@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.meli.indonesian_culture.DetailProvinsi" >
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_menu_home"
+        android:title="Kembali"
+        android:showAsAction="ifRoom|withText" />
+
+</menu>
